@@ -1,6 +1,6 @@
-telegram_token: ""
-openai_api_key: ""
-openai_api_base: null  # leave null to use default api base or you can put your own base url here
+telegram_token: "8903854486:AAGt6Z-a_CgGAZiN09uAQ8z3o69ehxgTTow"
+openai_api_key: "sk-XTNqIxeGL7ICC7hCh0Eet2OKuDgCcEftSggruYpbIsfe8T0E"
+openai_api_base: https://api.chr6.com/v1  # leave null to use default api base or you can put your own base url here
 allowed_telegram_usernames: []  # if empty, the bot is available to anyone. pass a username string to allow it and/or user ids as positive integers and/or channel ids as negative integers
 new_dialog_timeout: 600  # new dialog starts after timeout (in seconds)
 return_n_generated_images: 1
